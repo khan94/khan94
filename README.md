@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khan</h1>
 <h3 align="center">Canadian web developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working on [it's here](https://itshere.com/)
+- 🔭 I’m currently working on building Telegram Bots, and whatever else the client needs
 
-- 🌱 I’m currently learning **NodeJS, expressJS**
+- 🌱 I’m currently learning **python** and its applications for AI
 
 - 🤝 I’m looking for help with [Gymmy](https://github.com/khan94/Gymmy)
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **ReactJS** and **Telegram Bots**
 
 - 📫 How to reach me **abylaikhan.julmagambetov@gmail.com**
 
