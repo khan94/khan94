@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **python** and its applications for AI
 
-- 🤝 I’m looking for help with [Gymmy](https://github.com/khan94/Gymmy)
-
 - 💬 Ask me about **ReactJS** and **Telegram Bots**
 
 - 📫 How to reach me **abylaikhan.julmagambetov@gmail.com**
